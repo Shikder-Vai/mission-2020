@@ -31,6 +31,7 @@ span{
 }
 .top{
     margin-bottom: 30px;
+    text-align: left;
 }
 .bottom{
     margin-top: 30px;
@@ -40,4 +41,30 @@ span{
     font-weight: 800;
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
+}
+.half-2 div{
+    width: 45%;
+    margin-right: 6%;
+}
+.box-icon{
+    height: 110px;
+    width: 110px;
+}
+.box-1{
+    border: 0px solid;
+    border-radius: 10px;
+    background-color: pink;
+    padding: 15px 20px;
+}
+.box-2{
+    border: 0px solid;
+    border-radius: 10px;
+    background-color: rgb(155, 235, 238);
+    padding: 15px 20px;
+}
+.box-3{
+    border: 0px solid;
+    border-radius: 10px;
+    background-color: rgb(236, 208, 133);
+    padding: 15px 20px;
 }
