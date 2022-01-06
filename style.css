@@ -1,0 +1,43 @@
+section{
+    margin-left: 8%;
+}
+.flaxible{
+    display: flex;
+}
+span{
+    color: sandybrown;
+}
+#heading-1{
+    font-family: 'Yeseva One', cursive;
+    font-size:50px;
+    font-weight: 700;
+    border-left: 3px solid rgb(245, 160, 32);
+}
+.half{
+    width: 50%;
+}
+.half img{
+    width: 50%;
+    margin-left: 15%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: salmon;
+    font-weight: 600;
+    padding: 9px 25px;
+    color: white;
+    border-radius: 4px;
+    margin-top:15px;
+}
+.top{
+    margin-bottom: 30px;
+}
+.bottom{
+    margin-top: 30px;
+}
+.center-text{
+    text-align: center;
+    font-weight: 800;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
