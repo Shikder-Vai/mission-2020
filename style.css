@@ -18,6 +18,7 @@ span{
     font-size:50px;
     font-weight: 700;
     border-left: 3px solid rgb(245, 160, 32);
+    border-radius: 5px;
 }
 .half{
     width: 50%;
