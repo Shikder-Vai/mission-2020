@@ -1,3 +1,7 @@
+body{
+    background-color: seashell;
+    margin: 0%;
+}
 section{
     margin-left: 8%;
     margin-bottom: 5%;
@@ -87,4 +91,12 @@ span{
 }
 .bottom-m{
     margin-bottom: 10%;
+}
+footer{
+    height: 100px;
+    background-color: rgb(23, 24, 29);
+    color: white;
+    text-align: center;
+    padding-top: 1%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
